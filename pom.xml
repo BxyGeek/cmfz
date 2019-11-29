@@ -17,12 +17,9 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-<<<<<<< HEAD
     <!-- 在小黑上做了一点修改 -->
     <!-- 在小黑上做的第二次修改 -->
-=======
     <!-- 本次操作是在小黑接受邀请之后 -->
->>>>>>> f3bac83e82836d0befd9744e1adf8f18ded33bec
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
