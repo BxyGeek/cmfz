@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
+    <!-- 本次操作是在小黑接受邀请之后 -->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
