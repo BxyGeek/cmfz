@@ -17,14 +17,6 @@
 </head>
 <body>
 <h1>欢迎：&emsp;&emsp;${sessionScope.nickname}</h1>
-<<<<<<< HEAD
-
-
-
-
-
-=======
 <h2>update on github by bxy</h2>
->>>>>>> 9bd3da9a294ef7929083c8e026c5e060c41f7e8f
 </body>
 </html>
