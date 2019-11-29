@@ -17,5 +17,10 @@
 </head>
 <body>
 <h1>欢迎：&emsp;&emsp;${sessionScope.nickname}</h1>
+
+
+
+
+
 </body>
 </html>
