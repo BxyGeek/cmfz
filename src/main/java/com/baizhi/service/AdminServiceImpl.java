@@ -48,6 +48,7 @@ public class AdminServiceImpl implements AdminService {
                     }
                     return BaseAipService.setRestltErrorMsg("用户不存在");
                 }
+                return BaseAipService.setRestltErrorMsg("验证码错误");
             }
             return BaseAipService.setRestltErrorMsg("验证码不能为空");
         } catch (Exception e) {

@@ -76,7 +76,7 @@
                         </div>
                     </div>
                     <div class="form-bottom" style="width: 450px">
-                        <form role="form" class="login-form" id="loginForm">
+                        <form role="form" class="statics.login-form" id="loginForm">
                             <span id="msgDiv"></span>
                             <div class="form-group">
                                 <label class="sr-only" for="form-username">Username</label>

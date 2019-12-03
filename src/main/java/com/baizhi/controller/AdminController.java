@@ -37,6 +37,7 @@ public class AdminController {
             e.printStackTrace();
             map.put(BaseAipService.HTTP_RESP_MSG, e.getMessage());
         }
+        System.out.println("响应code：        " + map.get("code"));
         return map;
     }
 
